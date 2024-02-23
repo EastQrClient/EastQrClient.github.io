@@ -48713,7 +48713,7 @@ ah(){return new A.Tg(B.m)}}
 A.Tg.prototype={
 ap(){this.aK()
 $.ax3().a.ae9(new A.GZ("/:qrId",$.aFk(),null,B.f6,null,null))},
-N(a){return new A.yi("/1708614757412",$.ax3().gVy(),"EastQR Client",null)}}
+N(a){return new A.yi("/QrCodes",$.ax3().gVy(),"EastQR Client",null)}}
 A.AF.prototype={
 N(a){return new A.yT(new A.acT(this),null)}}
 A.acT.prototype={
